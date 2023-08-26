@@ -1,2 +1,2 @@
 # react-component-library
-React based component library
+Component library with react, typescript, storybook and styled components.
