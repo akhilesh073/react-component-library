@@ -1,7 +1,7 @@
 {
   "name": "react-component-library",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@storybook/react": "^7.3.2",
     "@testing-library/jest-dom": "^5.17.0",
@@ -60,5 +60,17 @@
     "prop-types": "^15.8.1",
     "storybook": "^7.3.2",
     "webpack": "^5.88.2"
-  }
+  },
+  "description": "A react library made with typescript",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akhilesh073/react-component-library.git"
+  },
+  "author": "akhileshm",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/akhilesh073/react-component-library/issues"
+  },
+  "homepage": "https://github.com/akhilesh073/react-component-library#readme"
 }
